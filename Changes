@@ -1,0 +1,9 @@
+Revision history for Perl module App::PAUSE::CheckPerms
+
+0.02 2013-12-06
+    - Added link to MIYAGAWA's App::PAUSE::Comaint module (and comaint script)
+    - Added Changes file
+
+0.01 2013-12-05
+    - First release to CPAN
+

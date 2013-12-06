@@ -89,6 +89,9 @@ Feel free to suggest better ways to do this.
 
 =head1 SEE ALSO
 
+L<App::PAUSE::Comaint> comes with a L<comaint> script which you can use to give
+someone co-maint permission for modules that you're owner of.
+
 L<App::PAUSE::CheckPerms> contains the body of this script.
 
 L<PAUSE::Permissions> lets you iterate over all PAUSE permissions data.
@@ -96,6 +99,7 @@ It also details the PAUSE permissions model.
 
 L<PAUSE::Packages> lets you iterate over all distributions on CPAN,
 getting a list of modules in each distribution.
+
 
 =head1 REPOSITORY
 

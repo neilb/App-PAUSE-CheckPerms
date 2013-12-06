@@ -145,7 +145,8 @@ Feel free to suggest better ways to do this.
 
 =head1 SEE ALSO
 
-L<pause-checkperms>, L<PAUSE::Permissions>, L<PAUSE::Packages>.
+L<pause-checkperms>, L<PAUSE::Permissions>, L<PAUSE::Packages>,
+L<App::PAUSE::Comaint>.
 
 =head1 REPOSITORY
 
