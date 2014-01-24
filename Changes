@@ -1,7 +1,7 @@
 Revision history for Perl module App::PAUSE::CheckPerms
 
-0.03
-    - Added "use 5.10.0", as we're sing PAUSE::Permissions, and that
+0.03 2014-01-24
+    - Added "use 5.010", as we're using PAUSE::Permissions, and that
       requires 5.10.0, so therefore we do.
 
 0.02 2013-12-06
