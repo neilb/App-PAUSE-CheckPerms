@@ -1,5 +1,8 @@
 Revision history for Perl module App::PAUSE::CheckPerms
 
+0.04 2015-07-02 NEILB
+    - Added [MetaJSON] so the release will contain META.json.
+
 0.03 2014-01-24
     - Added "use 5.010", as we're using PAUSE::Permissions, and that
       requires 5.10.0, so therefore we do.
