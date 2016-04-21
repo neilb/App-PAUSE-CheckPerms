@@ -24,7 +24,7 @@ sub execute
     my $bad_count = 0;
 
     RELEASE:
-    while (my $release = $release_iterator->next) {
+    while (my $release = $release_iterator->next_release) {
         if ($self->user) {
             my $seen_user = 0;
             my $USER      = uc($self->user);
