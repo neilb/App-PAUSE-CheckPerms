@@ -5,7 +5,7 @@ use Moo;
 use MooX::Options;
 
 use PAUSE::Permissions 0.06;
-use PAUSE::Packages 0.02;
+use PAUSE::Packages 0.07;
 
 option 'user'      => (is => 'ro', format => 's');
 
